@@ -5,3 +5,7 @@ Python ve java için obfuscator ve deobfuscatorlar
 discord: ayhancan
 
 telegram: all4hcan
+
+
+## Ekleyemediklerim bunlar:
+https://github.com/huzpsb/PythomProtect
