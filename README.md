@@ -7,5 +7,5 @@ discord: ayhancan
 telegram: all4hcan
 
 
-## Ekleyemediklerim bunlar:
+## Ekleyemediklerim :
 https://github.com/huzpsb/PythomProtect
